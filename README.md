@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammad Yazid Baihaqi
-- 👀 I’m interested in Data Science, Machine Learning, AI Backend Developer
+- 👀 I’m interested in Data Science, Machine Learning, AI, Backend Developer
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any project
 
